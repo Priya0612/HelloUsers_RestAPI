@@ -41,7 +41,8 @@ http://localhost:8080/hello/users/2
 http://localhost:8080/hello/users/2?accept=application/json
 http://localhost:8080/hello/users/2?accept=application/xml
 
-
+**Run the JAR directly**
+java -jar demoforspringBoot-0.0.1-SNAPSHOT.jar
 
 
 
