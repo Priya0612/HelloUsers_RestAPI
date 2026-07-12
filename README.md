@@ -37,8 +37,11 @@ mvn spring-boot:run OR java -jar target/*.jar
 **Check the below in you window/internet explorer API as it should be is now available at**:
 
 http://localhost:8080/hello/users
+
 http://localhost:8080/hello/users/2
+
 http://localhost:8080/hello/users/2?accept=application/json
+
 http://localhost:8080/hello/users/2?accept=application/xml
 
 **Run the JAR directly**
